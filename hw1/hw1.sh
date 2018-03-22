@@ -1,1 +1,1 @@
-echo hello
+python3 forecast.py $1 $2
