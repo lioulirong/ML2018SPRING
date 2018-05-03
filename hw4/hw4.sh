@@ -1,0 +1,1 @@
+python hw4_cluster.py $1 $2 $3
